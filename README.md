@@ -6,7 +6,7 @@
 
  Tech Stacks: This page is built on html5,css3 and javascript.
 
-  Live Webpage URL:
+  Live Webpage URL:https://zerodha-landing-ivoory-page.netlify.app/
   
 
   
